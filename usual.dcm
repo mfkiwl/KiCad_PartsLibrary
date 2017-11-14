@@ -1,3 +1,16 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP OSL40562-IR
+D common anode display
+K 7 SEGMENTS 4 display
+$ENDCMP
+#
+$CMP TBD62083
+D sink
+$ENDCMP
+#
+$CMP TBD62783
+D source
+$ENDCMP
+#
 #End Doc Library
