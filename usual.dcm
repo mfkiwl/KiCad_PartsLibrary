@@ -1,22 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-<<<<<<< HEAD
-$CMP RGB_LED
-D LED RGB, common anode
-K led rgb diode
-=======
-$CMP OSL40562-IR
-D common anode display
-K 7 SEGMENTS 4 display
-$ENDCMP
-#
-$CMP TBD62083
-D sink
-$ENDCMP
-#
-$CMP TBD62783
-D source
->>>>>>> origin/master
-$ENDCMP
-#
 #End Doc Library
