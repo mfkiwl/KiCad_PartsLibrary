@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CL-425
+D LED RGB, common anode (pin 1)
+K led rgb diode
+F ~
+$ENDCMP
+#
+$CMP USB_C_Receptacle
+D USB Type-C Receptacle connector
+K usb universal serial bus
+F http://www.usb.org/developers/docs/usb_31_033017.zip
+$ENDCMP
+#
 #End Doc Library
